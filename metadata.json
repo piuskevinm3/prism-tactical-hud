@@ -1,0 +1,9 @@
+
+{
+  "name": "PRISM Tactical HUD",
+  "description": "Next.js refactored AR-style tactical HUD powered by Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
