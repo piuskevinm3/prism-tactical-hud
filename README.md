@@ -8,7 +8,7 @@
 
 > **"PRISM is not a chatbot; it is an extra pair of eyes for the physical world."**
 
-PRISM is a next-generation **Spatial Intelligence HUD** inspired by Iron Man’s *JARVIS and E.D.I.T.H.* It leverages the state-of-the-art multimodal reasoning power of **Gemini 3** to perceive the user’s physical environment through a futuristic Head-Up Display. By bridging computer vision and advanced reasoning, PRISM identifies complex objects, extracts visual evidence, and provides sophisticated,  real-time technical guidance.
+PRISM is a next-generation **Spatial Intelligence HUD** inspired by Iron Man’s *JARVIS and E.D.I.T.H.* It leverages the state-of-the-art multimodal reasoning power of **Gemini 3** to perceive the user’s physical environment through a futuristic Head-Up Display. By bridging computer vision and advanced reasoning, PRISM identifies complex objects, extracts visual evidence, and provides sophisticated,  real-time technical   guidance.
 
 ---
 
